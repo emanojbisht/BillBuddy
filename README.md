@@ -1,3 +1,6 @@
+![Capture](https://github.com/emanojbisht/BillBuddy/assets/46516136/7604448a-66bb-4ca2-98c2-529e978eb799)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
